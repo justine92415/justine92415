@@ -79,7 +79,7 @@
 
 ## 🚀 Side Projects
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th width="200">專案名稱</th>
